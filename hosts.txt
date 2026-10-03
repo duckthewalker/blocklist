@@ -29,8 +29,6 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
-canapuff.com
-
 
 # End of custom host records.
 # Start StevenBlack
@@ -81582,4 +81580,4 @@ canapuff.com
 # update process. For example, uncomment the following line to block
 # 'example.com':
 
-# 0.0.0.0 example.com
+0.0.0.0 canapuff.com
